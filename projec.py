@@ -38,3 +38,37 @@ def c():
     print(w)
 c()
 
+def d():
+  bbbb = -111
+  print(abs(bbbb))
+
+  cccc = 3.56789
+  print(round(cccc, 2))
+
+  zzzz = 4
+  print(pow(zzzz, 3))
+
+  ssss = 16, 25, 9, 4
+  print(max(ssss))
+  print(min(ssss))
+  print(sum(ssss))
+
+import math
+vvvv = 144
+print(math.sqrt(vvvv))
+print(math.remainder(10, 3))
+
+
+import random
+print(random.randint(1, 100))
+
+
+import datetime
+date = datetime.datetime.now(2020, 10, 5)
+print(date)
+time = datetime.time(14, 30, 0)
+print(time)
+Now = datetime.datetime.now()
+print(Now)
+print(date.strftime('%A %B %Y'))
+print(date.strftime('%I %M %S'))
