@@ -52,6 +52,7 @@ def d():
   print(max(ssss))
   print(min(ssss))
   print(sum(ssss))
+c()
 
 import math
 vvvv = 144
@@ -72,3 +73,14 @@ Now = datetime.datetime.now()
 print(Now)
 print(date.strftime('%A %B %Y'))
 print(date.strftime('%I %M %S'))
+
+
+alphapite = "abcdefghijklmnopqrstuvwxyz"
+print(alphapite[0])
+print(alphapite[-2])
+print(alphapite.index("m"))
+
+text = 'مرحبا بكم في عالم البرمجة'
+print(text[0:7:2])
+s = slice(0, 7, 2)
+print(text[s])
