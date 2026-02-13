@@ -3,7 +3,7 @@
 This repository serves as a dedicated archive for my academic research contributions and computational models. The work here focuses on the intersection of Artificial Intelligence, Advanced Mathematics, and Medical Data Science.
 
  🧬 Current Research Focus
-- Medical Imaging & AI: Implementing and testing generative models for medical data classification (inspired by the *TumorGANet* framework).
+- Medical Imaging & AI: Implementing and testing generative models for medical data classification (inspired by the TumorGANet framework).
 - Mathematical Optimization: Developing algorithms to simplify complex mathematical theories through Python-based simulations.
 - Data Analysis: Processing large-scale datasets using **NumPy** and **Pandas** to derive statistically significant results for peer-reviewed publications.
 
