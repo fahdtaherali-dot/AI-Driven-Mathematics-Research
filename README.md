@@ -29,4 +29,4 @@ All research papers within this repository follow **rigorous academic standards*
 * **Collaboration:** Under the guidance of academic research expertise in the field of AI and medical imaging.
 
 ---
-*Last Updated: February 2026*
+Last Updated: February 2026
