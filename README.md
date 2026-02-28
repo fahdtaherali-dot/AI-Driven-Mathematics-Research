@@ -27,6 +27,3 @@ All research papers within this repository follow **rigorous academic standards*
 
 * **Active Research:** 5 academic papers in development/review phase.
 * **Collaboration:** Under the guidance of academic research expertise in the field of AI and medical imaging.
-
----
-Last Updated: February 2026
