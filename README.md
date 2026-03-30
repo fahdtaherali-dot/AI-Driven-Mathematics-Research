@@ -7,7 +7,7 @@ This repository serves as a dedicated archive for my **academic research contrib
 ## 🧬 Current Research Focus
 
 * **Medical Imaging & AI:** Implementing and testing generative models for medical data classification (inspired by the `TumorGANet` framework).
-* **Mathematical Optimization:** Developing algorithms to simplify complex mathematical theories throug `Python`-based simulations.
+* **Mathematical Optimization:** Developing algorithms to simplify complex mathematical theories throg `Python`-based simulations.
 * **Data Analysis:** Processing large-scale datasets using `NumPy` and `Pandas` to derive statistical significant results for peer-reviewed publications.
 
 ---
